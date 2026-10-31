@@ -25,6 +25,7 @@ public class FrmSimulacion extends JFrame {
 					FrmSimulacion frame = new FrmSimulacion();
 					frame.setVisible(true);
 					System.out.println("hello world");
+					System.out.println("hello world step 1");
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
